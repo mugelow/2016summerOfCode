@@ -2,7 +2,7 @@
  * Comments are nice to explain what the class is/what is it for 
  * class must match file name
  */
-public class HelloWorld{
+public class Mult_3_5{
 
 	/**
 	 * You'll learn as you go along, but the @param tags are a way of generating automatic java documentation (called javadocs). Super useful later on. 
@@ -10,10 +10,17 @@ public class HelloWorld{
 	 * @param args our arguments passed in from the command line. 
 	 */
 	public static void main(String[] args){
-		if (args.length > 0){
-			System.out.println("Hello " + args[0] + "!");
-		}else{
-			System.out.println("Hello World!");
+		ArrayList<Integer> numbers = new ArrayList<Integer>();
+		
+		for (int i=0; i<1000); i++) {
+			numbers.add(0);
 		}
-	}
-}
+		
+
+
+
+
+
+
+
+		}
